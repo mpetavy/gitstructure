@@ -3,7 +3,7 @@ module gitstructure
 go 1.22.5
 
 require (
-	github.com/mpetavy/common v1.8.61
+	github.com/mpetavy/common v1.8.62
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 )
 
