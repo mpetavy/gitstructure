@@ -5,7 +5,7 @@ go 1.23
 toolchain go1.23.2
 
 require (
-	github.com/mpetavy/common v1.9.80
+	github.com/mpetavy/common v1.9.84
 	github.com/wk8/go-ordered-map/v2 v2.1.8
 )
 
